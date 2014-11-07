@@ -1,0 +1,45 @@
+
+    .gmnoprint img {
+        max-width: none; 
+    }
+
+    .map {
+        min-width: 246px;
+        min-height:241px;
+        width:100%;
+        height:100%;
+        background: url("../images/mapita.png") no-repeat scroll center bottom;
+    }
+  
+
+    .clearfix {
+        clear: both;
+    }
+
+     .rowcolor {
+        background-color: #0066cb;
+        border: 2px solid #cccccc;
+    }
+    .rowcolor2 {
+        background-color: #ffffff;
+        border: 2px solid #cccccc;
+    }
+
+    .padall {
+        padding: 10px;
+    }
+
+    .padbig {
+        padding: 20px;
+    }
+    
+    .userpictureloc {
+    width: 64px;
+    height:64px;
+    margin-top: 0px;
+   -webkit-border-radius: 40px;
+   -moz-border-radius:40px;
+    border-radius: 40px;
+    border: 2px solid #989898;  
+}
+   
